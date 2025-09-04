@@ -1,0 +1,10 @@
+# Good .gitignore entries
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# Keep these!
+!Assets/
+!ProjectSettings/
+!Packages/
